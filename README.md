@@ -38,8 +38,8 @@ This project is designed to be **plug and play**. The environment setup and all 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [Your Repository URL]
-    cd [Your Repository Name]
+    git clone https://github.com/istvan-knab/machine_vision_homework_projects.git
+    cd machine_vision_homework_projects
     ```
 2.  **Open the Notebooks:**
     Launch your Jupyter environment (or use a compatible online platform like Google Colab) and open either `classification.ipynb` or `image_detection.ipynb`.
