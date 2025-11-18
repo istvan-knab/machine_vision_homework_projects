@@ -45,7 +45,7 @@ This project is designed to be **plug and play**. The environment setup and all 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/istvan-knab/machine_vision_homework_projects.git](https://github.com/istvan-knab/machine_vision_homework_projects.git)
+    git clone https://github.com/istvan-knab/machine_vision_homework_projects.git
     cd machine_vision_homework_projects
     ```
 2.  **Open the Notebooks:**
