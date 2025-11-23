@@ -1,0 +1,14 @@
+kagglehub
+torch
+torchvision
+transformers
+accelerate>=0.26.0
+scikit-learn
+pillow
+ultralytics
+pyyaml
+pandas
+matplotlib
+datasets
+timm
+
