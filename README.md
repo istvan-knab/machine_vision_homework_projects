@@ -1,5 +1,3 @@
-# Evolution of Vision: From CNNs and YOLO to Vision Transformers
-
 <div align="center">
   <img src="landing.png" alt="Project Landing Image" width="800">
 </div>
