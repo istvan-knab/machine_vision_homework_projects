@@ -1,7 +1,4 @@
-## 🤖 Machine Vision Project: Classification and Object Detection
-This repository contains the implementation and resources for two key machine vision tasks: **Image Classification** and **Object Detection**.
----
-### 👥 Collaborators
+## 👥 Collaborators
 This project was developed in collaboration by the following individuals:
 * **Bokor Ámos Márk** (Neptun code: **AAEN0P**)
 * **István Gellért Knab** (Neptun code: **BWKUGQ**)
@@ -10,7 +7,13 @@ This project was developed in collaboration by the following individuals:
 This repository focuses on applying and implementing machine learning techniques to solve two fundamental problems in the field of computer vision.
 
 #### **Task 1: Image Classification**
-<img src="https://cdn.prod.website-files.com/614c82ed388d53640613982e/6475ee4ab445d8fcfe8b8c45_what%20is%20image%20classification.webp" alt="Image Classification" style="float:left; width:300px; margin-right:20px;">
+
+<table>
+<tr>
+<td width="300">
+<img src="https://cdn.prod.website-files.com/614c82ed388d53640613982e/6475ee4ab445d8fcfe8b8c45_what%20is%20image%20classification.webp" alt="Image Classification" width="300">
+</td>
+<td>
 
 This task involves training a model to assign a **label** to an entire input image from a predefined set of categories. The goal is to determine **what** is present in the image (e.g., "cat," "dog," "car"). 
 
@@ -19,19 +22,29 @@ This task involves training a model to assign a **label** to an entire input ima
 * A **Vision Transformer (ViT)**-based solution.
 * *Implementation File:* `classification.ipynb`
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 #### **Task 2: Object Detection**
-<img src="https://deeplobe.ai/wp-content/uploads/2023/06/Object-detection-Real-world-applications-and-benefits.png" alt="Object Detection" style="float:left; width:300px; margin-right:20px;">
+
+<table>
+<tr>
+<td width="300">
+<img src="https://deeplobe.ai/wp-content/uploads/2023/06/Object-detection-Real-world-applications-and-benefits.png" alt="Object Detection" width="300">
+</td>
+<td>
 
 This task is more complex, as it involves training a model not only to classify objects but also to **localize** them within the image. The output typically includes a **bounding box** around each detected object and its corresponding class label. The goal is to determine **where** objects are and **what** they are. 
 
 **Implementation:** The detection task was also solved using two modern approaches:
-* An implementation based on the **YOLO v11** model (You Only Look Once).
+* An implementation based on the **YOLO v11** model (You Only Look Look Once).
 * A **Vision Transformer**-based detection solution.
 * *Implementation File:* `image_detection.ipynb`
 
-<br clear="left"/>
+</td>
+</tr>
+</table>
 
 ---
 ### 🚀 Getting Started (Plug and Play)
