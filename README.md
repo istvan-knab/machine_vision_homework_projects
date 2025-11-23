@@ -1,5 +1,9 @@
 # Evolution of Vision: From CNNs and YOLO to Vision Transformers
 
+<div align="center">
+  <img src="landing.png" alt="Project Landing Image" width="800">
+</div>
+
 ## 👥 Collaborators
 This project was developed in collaboration by the following individuals:
 * **Bokor Ákos Márk** (Neptun code: **AAEN0P**)
