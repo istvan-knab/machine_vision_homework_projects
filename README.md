@@ -67,5 +67,6 @@ This project is designed to be **plug and play**. The environment setup and all 
     Simply run the cells in the notebook sequentially. The initial cells will automatically execute the necessary **environment setup**, install dependencies, and prepare the software for execution.
 
 [^1]: Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. In *Advances in neural information processing systems* (pp. 1097-1105).
-[^2] Szemenyei, M. (2025). Computer Vision Systems - Lecture Notes. Budapest University of Technology and Economics, Department of Control Engineering and Information Technology. https://deeplearning.iit.bme.hu/Public/CVS/notesFull.pdf
+
+[^2]: Szemenyei, M. (2025). Computer Vision Systems - Lecture Notes. Budapest University of Technology and Economics, Department of Control Engineering and Information Technology. https://deeplearning.iit.bme.hu/Public/CVS/notesFull.pdf
 
