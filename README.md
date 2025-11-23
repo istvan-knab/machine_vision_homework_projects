@@ -2,7 +2,7 @@
 
 ## 👥 Collaborators
 This project was developed in collaboration by the following individuals:
-* **Bokor Ámos Márk** (Neptun code: **AAEN0P**)
+* **Bokor Ákos Márk** (Neptun code: **AAEN0P**)
 * **István Gellért Knab** (Neptun code: **BWKUGQ**)
 ---
 ### 📝 Project Overview
