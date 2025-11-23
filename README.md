@@ -1,3 +1,5 @@
+# Evolution of Vision: From CNNs and YOLO to Vision Transformers
+
 ## 👥 Collaborators
 This project was developed in collaboration by the following individuals:
 * **Bokor Ámos Márk** (Neptun code: **AAEN0P**)
