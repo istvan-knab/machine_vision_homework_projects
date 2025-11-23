@@ -19,7 +19,7 @@ This repository focuses on applying and implementing machine learning techniques
 
 #### **Task 1: Image Classification**
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.superannotate.com%2Fblog%2Fimage-classification-basics&psig=AOvVaw170Omqbqivo0EDEnSzCKDp&ust=1763989412852000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDYteaqiJEDFQAAAAAdAAAAABAE" alt="Image Classification" style="float:right; width:300px; margin-left:20px;">
+<img src="https://cdn.prod.website-files.com/614c82ed388d53640613982e/6475ee4ab445d8fcfe8b8c45_what%20is%20image%20classification.webp" alt="Image Classification" style="float:right; width:300px; margin-left:20px;">
 
 This task involves training a model to assign a **label** to an entire input image from a predefined set of categories. The goal is to determine **what** is present in the image (e.g., "cat," "dog," "car"). 
 
@@ -31,7 +31,7 @@ This task involves training a model to assign a **label** to an entire input ima
 
 #### **Task 2: Object Detection**
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdeeplobe.ai%2Fexploring-object-detection-applications-and-benefits%2F&psig=AOvVaw0P4jmqgURYv6p0VYTHXx3k&ust=1763989429788000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNDhne2qiJEDFQAAAAAdAAAAABAE" alt="Object Detection" style="float:right; width:300px; margin-left:20px;">
+<img src="https://deeplobe.ai/wp-content/uploads/2023/06/Object-detection-Real-world-applications-and-benefits.png" alt="Object Detection" style="float:right; width:300px; margin-left:20px;">
 
 This task is more complex, as it involves training a model not only to classify objects but also to **localize** them within the image. The output typically includes a **bounding box** around each detected object and its corresponding class label. The goal is to determine **where** objects are and **what** they are. 
 
