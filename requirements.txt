@@ -11,4 +11,6 @@ pandas
 matplotlib
 datasets
 timm
+seaborn
+numpy>=1.23.5,<2.0.0
 
